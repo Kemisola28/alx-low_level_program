@@ -57,7 +57,7 @@ To access any project you are willing to view , please proceed like this:
 
 
 
-        - git clone https://github.com/Pericles001/alx-low_level_programming
+        - git clone https://github.com/kemisola28/alx-low_level_programming
         - cd alx-low_level_programming
 
 
@@ -80,7 +80,7 @@ To access any project you are willing to view , please proceed like this:
 
 ## Author
 
-* **Pericles Adjovi** <[Pericles001](https://github.com/Pericles001)>
+* **ademuyiwa toheebat** <[kemisola28](https://github.com/kemisola28)>
 
 ## Aknowledgements
 
